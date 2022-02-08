@@ -8,7 +8,7 @@
 ### Showcase
 
 * Desktop version.
-/home
+--home
 <img src="showcase/Forum-2k home.png" />
 
 * Mobile version
