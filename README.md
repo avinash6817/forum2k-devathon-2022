@@ -7,7 +7,8 @@
 
 ### Showcase
 
-* Desktop version
+* Desktop version.
+
 /home
 <img src="showcase/Forum-2k home.png" />
 
