@@ -17,7 +17,6 @@ Affix an image of the flow diagram/architecture diagram of the solution
 
 #### Technical Description
 
-An overview of:
   * React
 
 ### Screenshots
@@ -39,3 +38,4 @@ List of team member names and email IDs with their contributions.
 
 ### References
 You can see it live [here](https://forum2k-2022.web.app/) 
+
