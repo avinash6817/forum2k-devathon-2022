@@ -1,28 +1,41 @@
-## By Avinash - Forum2k website
 
+## Team Name \<Avinash> - \<Websites>
 
-### Technology used
+The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). *Clone the repo on your local system and build on top of that*
 
-* React
+The following created sections in this README.md need to be duly filled, highlighting the denoted points for the solution/implementation. 
 
-### You can see it live [here](https://forum2k-2022.web.app/)
+**Please feel free to create further sub-sections in this markdown.** The idea is to understand all the particulars of your solution in a singular document.
 
-### Showcase
+### Solution Description
 
-* Desktop version.
-<h5>/home</h5>
+Explain your solution to the problem in detail here.
+
+#### Architecture Diagram
+
+Affix an image of the flow diagram/architecture diagram of the solution
+
+#### Technical Description
+
+An overview of:
+  * React
+
+### Screenshots
 <img src="showcase/Forum-2k home.png" />
-
-<h5>/about</h5>
-<img src="showcase/Forum-2k about.png" />
-
-<h5>/contact</h5>
-<img src="showcase/Forum-2k contact.png" />
-
-<h5>/login</h5>
-<img src="showcase/Forum-2k login.png" />
-
-* Mobile version
-<h5>/home</h5>
 <img src="showcase/Forum-2k mobile version.png" />
 
+
+### Demonstration Video 
+Share link of your application demostration video. 
+
+### Team Members
+List of team member names and email IDs with their contributions.
+|Member Name|Email|Contribution|
+|-----------|-----|------------|
+|Member 1|mem1@example.com|Something important|
+|Member 2|mem2@example.com|Something important|
+|Member 3|mem3@example.com|Something important|
+|Member 4|mem4@example.com|Something important|
+
+### References
+You can see it live [here](https://forum2k-2022.web.app/) 
