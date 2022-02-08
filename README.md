@@ -5,9 +5,7 @@
 
 * React
 
-<!-- <h2> You can see it live <a href="https://forum2k-2022.web.app/" target="_blank"> <img src="showcase/F2k-Logo.png" height="35px" width="35px" /></a><h2> -->
-
-### You can see it live [here](https://forum2k-2022.web.app/) <img src="showcase/F2k-Logo.png" height="40px" width="40px" />
+### You can see it live [here](https://forum2k-2022.web.app/)
 
 ### Showcase
 
