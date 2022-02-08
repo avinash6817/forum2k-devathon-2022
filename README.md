@@ -8,7 +8,7 @@
 ### Showcase
 
 * Desktop version
-<img src="showcase/Forum-2k home.png" height="500px" width="500px"/>
+<img src="showcase/Forum-2k home.png" />
 
 * Mobile version
 
