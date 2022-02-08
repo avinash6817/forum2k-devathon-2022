@@ -13,7 +13,7 @@ Explain your solution to the problem in detail here.
 
 #### Architecture Diagram
 
-Affix an image of the flow diagram/architecture diagram of the solution
+<img src="showcase/Architecture-diagram.png" />
 
 #### Technical Description
 
