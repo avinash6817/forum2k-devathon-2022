@@ -6,7 +6,7 @@
 * React
 
 <!-- ### You can see it live here [Forum2k](https://forum2k-2022.web.app/) -->
-### <a href="https://forum2k-2022.web.app/" target="_blank"><img src="showcase/F2k-Logo.png" />You can see it live here</a>
+### <a href="https://forum2k-2022.web.app/" target="_blank"><img src="showcase/F2k-Logo.png" height="50px" width="50px" /> You can see it live here</a>
 
 ### Showcase
 
