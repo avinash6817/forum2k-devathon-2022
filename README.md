@@ -24,6 +24,5 @@
 <h5>/home</h5>
 <img src="showcase/Forum-2k mobile version.png" />
 
-### You can see it live here
- [Forum2k](https://forum2k-2022.web.app/)
+### You can see it live here [Forum2k](https://forum2k-2022.web.app/)
 
