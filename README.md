@@ -1,7 +1,7 @@
 ## Avinash - Forum2k websites websites
 
 
-#### Technical Description
+#### Technology used
 
 * React
 
